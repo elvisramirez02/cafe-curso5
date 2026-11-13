@@ -1,0 +1,13 @@
+producto_id,nombre,categoria,precio_lista
+1,Espresso,Bebida caliente,1.75
+2,Americano,Bebida caliente,2.00
+3,Capuchino,Bebida caliente,2.75
+4,Latte,Bebida caliente,3.00
+5,Frappe de Cafe,Bebida fria,3.75
+6,Cold Brew,Bebida fria,3.50
+7,Te Helado,Bebida fria,2.50
+8,Croissant,Panaderia,2.25
+9,Pan Dulce,Panaderia,1.25
+10,Sandwich de Pollo,Panaderia,4.50
+11,Cafe en Grano 1lb,Granos,9.50
+12,Cafe Molido 1lb,Granos,9.00
